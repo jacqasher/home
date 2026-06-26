@@ -1,6 +1,8 @@
 # Jacqueline Asher Medico-Legal Consulting
 
-Static site for [Jacqueline Asher Medico-Legal Consulting](https://github.com/jacqasher/asher-medicolegal).
+Static site published at **https://jacqasher.github.io/home/**
+
+Repository: [github.com/jacqasher/home](https://github.com/jacqasher/home)
 
 ## Structure
 
